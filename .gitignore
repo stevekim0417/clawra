@@ -1,0 +1,6 @@
+# OpenClaw reference source (cloned for analysis)
+_openclaw_src/
+
+# Node
+node_modules/
+.env
